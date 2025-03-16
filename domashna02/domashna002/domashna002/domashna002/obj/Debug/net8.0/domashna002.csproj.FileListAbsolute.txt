@@ -1,0 +1,14 @@
+C:\Users\Junior\Desktop\CSHARP\domashna02\domashna002\domashna002\domashna002\bin\Debug\net8.0\domashna002.exe
+C:\Users\Junior\Desktop\CSHARP\domashna02\domashna002\domashna002\domashna002\bin\Debug\net8.0\domashna002.deps.json
+C:\Users\Junior\Desktop\CSHARP\domashna02\domashna002\domashna002\domashna002\bin\Debug\net8.0\domashna002.runtimeconfig.json
+C:\Users\Junior\Desktop\CSHARP\domashna02\domashna002\domashna002\domashna002\bin\Debug\net8.0\domashna002.dll
+C:\Users\Junior\Desktop\CSHARP\domashna02\domashna002\domashna002\domashna002\bin\Debug\net8.0\domashna002.pdb
+C:\Users\Junior\Desktop\CSHARP\domashna02\domashna002\domashna002\domashna002\obj\Debug\net8.0\domashna002.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Junior\Desktop\CSHARP\domashna02\domashna002\domashna002\domashna002\obj\Debug\net8.0\domashna002.AssemblyInfoInputs.cache
+C:\Users\Junior\Desktop\CSHARP\domashna02\domashna002\domashna002\domashna002\obj\Debug\net8.0\domashna002.AssemblyInfo.cs
+C:\Users\Junior\Desktop\CSHARP\domashna02\domashna002\domashna002\domashna002\obj\Debug\net8.0\domashna002.csproj.CoreCompileInputs.cache
+C:\Users\Junior\Desktop\CSHARP\domashna02\domashna002\domashna002\domashna002\obj\Debug\net8.0\domashna002.dll
+C:\Users\Junior\Desktop\CSHARP\domashna02\domashna002\domashna002\domashna002\obj\Debug\net8.0\refint\domashna002.dll
+C:\Users\Junior\Desktop\CSHARP\domashna02\domashna002\domashna002\domashna002\obj\Debug\net8.0\domashna002.pdb
+C:\Users\Junior\Desktop\CSHARP\domashna02\domashna002\domashna002\domashna002\obj\Debug\net8.0\domashna002.genruntimeconfig.cache
+C:\Users\Junior\Desktop\CSHARP\domashna02\domashna002\domashna002\domashna002\obj\Debug\net8.0\ref\domashna002.dll
